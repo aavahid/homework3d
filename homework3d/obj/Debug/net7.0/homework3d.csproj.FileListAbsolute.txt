@@ -1,0 +1,15 @@
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/bin/Debug/net7.0/homework3d
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/bin/Debug/net7.0/homework3d.deps.json
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/bin/Debug/net7.0/homework3d.runtimeconfig.json
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/bin/Debug/net7.0/homework3d.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/bin/Debug/net7.0/homework3d.pdb
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.csproj.AssemblyReference.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.AssemblyInfoInputs.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.AssemblyInfo.cs
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.csproj.CoreCompileInputs.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/refint/homework3d.dll
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.pdb
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/homework3d.genruntimeconfig.cache
+/Users/vagazadee/Desktop/HomeWorks/HomeWork3D/homework3d/homework3d/obj/Debug/net7.0/ref/homework3d.dll
